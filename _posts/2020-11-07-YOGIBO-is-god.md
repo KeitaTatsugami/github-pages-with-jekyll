@@ -1,4 +1,7 @@
 ---
-layout: post
-title:  "Welcome to YOGIBO!"
+
+title: "awesome YOGIBO!"
+
+date: 2020-11-08
+
 ---
